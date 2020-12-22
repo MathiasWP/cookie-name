@@ -13,7 +13,7 @@ npm i cookie_name
 - `special` (default: true)
 
 ### Example:
-```
+```js
 const cookie_name = require('cookie_name');
 const cookie = cookie_name({numbers: false, len: 19})
 console.log(cookie): // e.g: ^-zLufzx^Ii)_t}kqx.
