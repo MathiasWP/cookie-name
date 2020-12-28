@@ -1,6 +1,6 @@
 {
   "name": "cookie-name",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create a random valid cookie name. Configurations available.",
   "main": "index.js",
   "scripts": {
